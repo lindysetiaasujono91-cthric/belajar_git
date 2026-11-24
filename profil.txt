@@ -8,3 +8,9 @@ VISI
 
 Menjadi kampus unggulan dalam bidang pendidikan,
 teknologi, dan inovasi yang berdaya saing.
+
+MISI
+
+1. Meningkatkan kualitas pendidikan dan pembelajaran.
+2. Mengembangkan penelitian di bidang teknologi.
+3. Mendorong kreativitas dan inovasi mahasiswa.
